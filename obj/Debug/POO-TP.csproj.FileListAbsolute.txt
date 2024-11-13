@@ -1,0 +1,7 @@
+C:\Users\arian\source\repos\POO-TP\bin\Debug\POO-TP.exe.config
+C:\Users\arian\source\repos\POO-TP\bin\Debug\POO-TP.exe
+C:\Users\arian\source\repos\POO-TP\bin\Debug\POO-TP.pdb
+C:\Users\arian\source\repos\POO-TP\obj\Debug\POO-TP.csproj.AssemblyReference.cache
+C:\Users\arian\source\repos\POO-TP\obj\Debug\POO-TP.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\POO-TP\obj\Debug\POO-TP.exe
+C:\Users\arian\source\repos\POO-TP\obj\Debug\POO-TP.pdb
